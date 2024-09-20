@@ -1,0 +1,78 @@
+/* General Container Styles */
+.review-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Header Styles */
+  .review-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .review-header h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .review-header p {
+    margin: 5px 0;
+    color: #555;
+  }
+  
+  .review-header strong {
+    color: #333;
+  }
+  
+  /* Image Styles */
+  .book-cover {
+    width: 100%;
+    height: auto;
+    max-width: 350px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Body Styles */
+  .review-body {
+    margin: 20px 0;
+  }
+  
+  .review-body p {
+    margin: 15px 0;
+    line-height: 1.6;
+    color: #444;
+  }
+  
+  /* Footer Styles */
+  .review-footer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .review-footer p {
+    font-size: 1.2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .related-books-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .related-books-link:hover {
+    text-decoration: underline;
+    color: #0056b3;
+  }
+  

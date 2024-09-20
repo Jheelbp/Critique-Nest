@@ -1,0 +1,53 @@
+.read-now-container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .read-now-header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .read-now-image {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+  }
+  
+  .read-now-text {
+    max-width: 600px;
+  }
+  
+  .divider {
+    margin: 20px 0;
+  }
+  
+  .read-now-content {
+    margin-bottom: 20px;
+  }
+  
+  .read-now-boxes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .box {
+    width: 150px;
+    text-align: center;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .box-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .box p {
+    margin: 10px;
+  }
+  

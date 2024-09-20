@@ -1,0 +1,197 @@
+.custom-red{
+  background-color: brown;
+}
+.header{
+  background-color:#112D4E ;
+}
+.profile{
+  margin-left: 70px;
+}
+.search{
+  margin-left: 50px;
+  margin-top: 14px;
+}
+span{
+  color: white;
+}
+.font{
+  font-family: "Noto Sans", sans-serif;
+  margin-left: 20px;
+  color:#3F72AF;
+  padding-right: 42px;
+  padding-left: 0px;
+}
+.color1{
+  background-color: white;
+  width:100%;
+  height:295px;
+  position: relative;
+  overflow: hidden;
+}
+.title1{
+  padding-left:50px;
+}
+.lead{
+  padding-left: 50px;
+}
+.button1{
+  padding-left:50px;
+}
+.hope{
+  width:300px;
+  height:300px;
+  box-shadow: 10px 10px lightblue;
+}
+.heroe{
+  font-family: "Noto Sans", sans-serif;
+  border:1px solid black;
+  padding-top: 10px;
+  height:450px;
+  background-color: #F9F7F7;
+}
+.after-heroe{
+  padding-top: 90px;
+  padding-left: 50px;
+}
+.para{
+  padding-top: 15px;
+  font-family: "Noto Sans", sans-serif;
+}
+.subtitle1{
+  font-family: "Noto Sans", sans-serif;
+  font-weight: bold;
+  color:black;
+}
+.main-content{
+  margin-top: 60px;
+  height:550px;
+  background: linear-gradient(135deg, #f5f7fa 0%, #F9F7F7 100%); 
+  width: 100%;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  text-align: center; 
+  margin: 0 auto; 
+}
+
+.fiction {
+  padding-top: 124px;
+  font-family: 'Playfair Display', serif; /* Elegant serif font */
+  color: #2c3e50; 
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 10px; 
+}
+.fiction-part {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem; 
+  color: #34495e; 
+  letter-spacing: 1px; 
+  margin-bottom: 0; 
+}
+
+.bookish{
+ height:320px;
+ box-shadow: 10px 10px #112D4E;
+border-radius: 15px;
+}
+.dabba1{
+  margin-top: 80px;
+  margin-left: 50px;
+  display: block;
+  height: 300px;
+  width: 549px;
+ 
+}
+.options-container{
+  display: flex;
+}
+.form-control{
+  width: 300px;
+  margin-bottom: 20px;
+  margin-left: 27px;
+}
+.options1{
+  list-style: none;
+  color: #00635d;
+}
+.footer{
+  background-color: #DBE2EF ;
+  padding-bottom: 10px;
+}
+.icon {
+  position: relative;
+  display: inline-block;
+  transform: translate(100px, 100px); /* Adjust the values as needed */
+}
+
+
+.main-content{
+  height: 1020px;
+}
+
+.maincontainer {
+  display: flex;
+  flex-direction: row;
+  padding-top: 70px;
+  padding-left: 40px;
+  height: 350px;
+  width: auto; /* Keep the width dynamic to fit all cards */
+  position: relative;
+  perspective: 1000px; /* Add perspective to create a 3D effect */
+  gap: 20px; /* Keep space between cards */
+}
+
+.thecard {
+  width: 90%; /* Maintain your existing width */
+  height: 90%; /* Maintain your existing height */
+  transform-style: preserve-3d;
+  transition: transform 1s ease; /* Smooth flipping transition */
+  background: yellow;
+  border-radius: 15px; /* Rounded borders for the card */
+  position: relative; /* Ensure proper positioning for flipping */
+}
+
+/* Apply hover effect to individual card */
+.thecard:hover {
+  transform: rotateY(180deg); /* Flip only the hovered card */
+}
+
+.thefront, .theback {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  border-radius: 15px; /* Keep rounded borders */
+}
+
+.thefront {
+  background-color: lightblue;
+}
+
+.theback {
+  transform: rotateY(180deg); /* Ensure the back is flipped by default */
+  background: linear-gradient( to bottom right, #ffffff, #f7a1d1);
+  background-color: #112D4E;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-family: 'Georgia', serif; /* More elegant font */
+  font-style: italic; /* Italic for quote effect */
+  line-height: 1.6; /* Improve readability */
+  padding: 20px;
+  text-align: center; /* Center text */
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Add shadow for depth */
+  border-radius: 15px;
+}
+
+
+
+
+.images {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+

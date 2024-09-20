@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Critique-Nest/static/css/main.eb77d58e.css",
+    "main.js": "/Critique-Nest/static/js/main.d574b382.js",
+    "static/js/453.3a43a69c.chunk.js": "/Critique-Nest/static/js/453.3a43a69c.chunk.js",
+    "static/media/wtr2.png": "/Critique-Nest/static/media/wtr2.5bb150ec60de5f1e5284.png",
+    "static/media/wtr5.png": "/Critique-Nest/static/media/wtr5.828e2bf73c87f231d215.png",
+    "static/media/wtr4.png": "/Critique-Nest/static/media/wtr4.504726a08f6b3e604681.png",
+    "static/media/wtr3.png": "/Critique-Nest/static/media/wtr3.3e8fae9fa6e00321e647.png",
+    "static/media/smoke.png": "/Critique-Nest/static/media/smoke.4bae80da175fd9f0881b.png",
+    "static/media/Lucy.png": "/Critique-Nest/static/media/Lucy.4e0367ec4ed108027da0.png",
+    "static/media/brain.png": "/Critique-Nest/static/media/brain.53779489f190fe12ed72.png",
+    "static/media/adam.png": "/Critique-Nest/static/media/adam.e6fc19a7e1de610eded4.png",
+    "static/media/wtr6.png": "/Critique-Nest/static/media/wtr6.b89025eaf3a8b9793859.png",
+    "static/media/sirens.png": "/Critique-Nest/static/media/sirens.4c52cd95957f6016a171.png",
+    "static/media/gr1.png": "/Critique-Nest/static/media/gr1.aed2989cc45053de9ee9.png",
+    "static/media/stand.png": "/Critique-Nest/static/media/stand.5e4c04232fcc278a39d9.png",
+    "static/media/wtr1.png": "/Critique-Nest/static/media/wtr1.cf074961e07235897431.png",
+    "static/media/shadow.png": "/Critique-Nest/static/media/shadow.ccc94a607738747f89fa.png",
+    "static/media/gr2.png": "/Critique-Nest/static/media/gr2.3db6e8baf9d14f66b47c.png",
+    "static/media/gr3.png": "/Critique-Nest/static/media/gr3.343b6903cb5c7eabb47a.png",
+    "static/media/gr4.png": "/Critique-Nest/static/media/gr4.a70a6a1d41e8c1c85bc0.png",
+    "static/media/mystery.png": "/Critique-Nest/static/media/mystery.e4dca15d48d80c4bc031.png",
+    "static/media/hope.jpg": "/Critique-Nest/static/media/hope.3e51e5de324cd307abd1.jpg",
+    "static/media/img1.jpeg": "/Critique-Nest/static/media/img1.d643733af9f54476412f.jpeg",
+    "static/media/img3.jpeg": "/Critique-Nest/static/media/img3.d56c2b6c9776bf2f7235.jpeg",
+    "static/media/img2.jpeg": "/Critique-Nest/static/media/img2.409522e9859fd9eb6003.jpeg",
+    "static/media/funnt.png": "/Critique-Nest/static/media/funnt.569ed24946e6b61b7658.png",
+    "index.html": "/Critique-Nest/index.html",
+    "static/media/bookmarks.svg": "/Critique-Nest/static/media/bookmarks.36cedf2e4754574e553ca82e22936aa7.svg",
+    "static/media/door-open.svg": "/Critique-Nest/static/media/door-open.f5d25845a089cb38c35d916db8432c02.svg",
+    "static/media/house.svg": "/Critique-Nest/static/media/house.f3e02505a8c6426cea61885667e39ce1.svg",
+    "static/media/archive.svg": "/Critique-Nest/static/media/archive.b55cafd458e5faf4d4bea52b605e5fea.svg",
+    "static/media/person-circle.svg": "/Critique-Nest/static/media/person-circle.e6f8d07c843b7acc7be9ce2d03c91019.svg",
+    "main.eb77d58e.css.map": "/Critique-Nest/static/css/main.eb77d58e.css.map",
+    "main.d574b382.js.map": "/Critique-Nest/static/js/main.d574b382.js.map",
+    "453.3a43a69c.chunk.js.map": "/Critique-Nest/static/js/453.3a43a69c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb77d58e.css",
+    "static/js/main.d574b382.js"
+  ]
+}
